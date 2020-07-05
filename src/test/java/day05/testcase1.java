@@ -5,4 +5,5 @@ package day05;
  * @date 2020/7/5 17:00
  */
 public class testcase1 {
+
 }
